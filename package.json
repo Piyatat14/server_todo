@@ -1,0 +1,29 @@
+{
+  "name": "server_todo",
+  "version": "1.0.0",
+  "description": "RESTful API backend to do task list.",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mysql": "^2.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Piyatat14/server_todo.git"
+  },
+  "keywords": [
+    "restful"
+  ],
+  "author": "Piyatat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Piyatat14/server_todo/issues"
+  },
+  "homepage": "https://github.com/Piyatat14/server_todo#readme"
+}
